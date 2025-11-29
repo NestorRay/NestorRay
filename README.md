@@ -26,3 +26,5 @@ Here are some ideas to get you started:
   />
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&color=F15D44&size=22&pause=1000&width=435&lines=Hello+World!+%F0%9F%91%8B;Just+keep+swimming!" />
 </picture>
+
+[![GitHub stats-Dark](https://github-readme-stats-git-master-nestorrays-projects.vercel.app/api?username=NestorRay&count_private=true&show_icons=true&theme=react&hide_border=true&show_owner=true&show=discussions_answered&disable_animations=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
