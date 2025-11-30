@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm NestorRay!  
 🎓 **Zhengzhou University | Mechanical Engineering**  
-🔧 Undergraduate Student @ Zhengzhou University  
+🔧 Undergraduate Student  
 
 [![GitHub stats-Dark](https://github-readme-stats-eight-beige-90.vercel.app/api?username=NestorRay&count_private=true&show_icons=true&theme=react&hide_border=true&show_owner=true&show=discussions_answered&disable_animations=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
